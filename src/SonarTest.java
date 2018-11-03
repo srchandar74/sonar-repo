@@ -5,8 +5,8 @@ package sonarProject;
 public class SonarTest {
 	
 	static int sub(int x, int y){
-		int s=x-y;
-		return s;
+		
+		return x-y;
 	}
 
 	public static void main(String[] args) {
